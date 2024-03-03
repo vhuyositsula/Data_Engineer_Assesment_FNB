@@ -10,3 +10,6 @@ Talend source code
 
 # sql_table_structure
 Table structure
+
+# Building a High-Profile Survey Solution with Talend
+Powerpoint presentation 
