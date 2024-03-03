@@ -1,8 +1,8 @@
 # Data_Engineer_Assesment_FNB
-Data Engineer Assesment - FNB
+
 
 # geonames-1.1.15.jar 
-Client libraries to simplify access to the GeoNames web services 
+Client libraries to simplify access to the GeoNames web services. 
 Import to talend studio
 
 # high_profile_survey_process.zip
